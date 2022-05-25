@@ -6,7 +6,7 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 &nbsp;
 # Tech stack
 - Frontend: Javascript React, Typescrypt, Mantine
-- Backend: Python Django
+- Backend: Python Django, Pandas
 - REST API: Reddit, Finnhub
 
 &nbsp;
