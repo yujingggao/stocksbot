@@ -1,7 +1,7 @@
 # stocksbot 
 Web-app that tracks the popularity and sentiment of the stocks the user is interested in from the subreddit WSB.  Users can create their own list of stocks they want to track and take notes. When they select the stock, they can also see all the post related to that stock and the sentiment scores of the selected stock, and check the quotes.
 
-<img src="frontend/stocksbot/public/stocksbot.png" width="600" >
+<img src="frontend/stocksbot/public/stocksbot.png" width="800" >
 
 &nbsp;
 # Tech stack
