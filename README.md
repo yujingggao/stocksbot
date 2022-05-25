@@ -20,7 +20,6 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 &nbsp;
 # Instruction
 
-&nbsp;
 ## Starting the backend server
 
 In the `backend` folder, reate a virtual environment called `.venv`
@@ -58,6 +57,7 @@ Start server
 >$ python manage.py runserver
 ```
 
+&nbsp;
 ## Starting the frontend server
 Go to `frontend/stocksbot` and install modules from package.json
 ```shell
@@ -66,10 +66,10 @@ Go to `frontend/stocksbot` and install modules from package.json
 
 Start the fronend server
 ```shell
->$ npm istart
+>$ npm start
 ```
 
-
+&nbsp;
 ## Stop server
 Enter `Ctrl` + `c` to end server
 
