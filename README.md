@@ -11,11 +11,12 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 
 &nbsp;
 # Feature
-1. List all the trending stocks with the number of time they are mentioned 
+1. List all the trending stocks with the number of times they are mentioned 
 2. Show sentiment scores of each stock
-3. Add each stock to user list
-4. Get quotes for the stocks in the user list
-5. Add notes for the stocks in the user list
+3. Select each stock to show comments related to it (with over 20 upvotes and 70% upvote ratio)
+4. Add each stock to user list
+5. Get quotes for the stocks in the user list
+6. Add notes for the stocks in the user list
 
 &nbsp;
 # Instruction
