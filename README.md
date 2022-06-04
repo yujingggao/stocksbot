@@ -54,6 +54,7 @@ Start server
 >$ python manage.py runserver
 ```
 
+&nbsp;
 ### Starting the frontend server
 Go to `frontend/stocksbot` and install modules from package.json
 ```shell
@@ -65,6 +66,7 @@ Start the fronend server
 >$ npm start
 ```
 
+&nbsp;
 ### Stop server
 Enter `Ctrl` + `c` to end server
 
