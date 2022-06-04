@@ -9,7 +9,6 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 - Backend: Python Django, Pandas
 - REST API: Reddit, Finnhub
 
-&nbsp;
 # Feature
 1. List all the trending stocks with the number of times they are mentioned 
 2. Show sentiment scores of each stock
@@ -22,7 +21,6 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 # Instruction
 
 ## Starting the backend server
-
 In the `backend` folder, reate a virtual environment called `.venv`
 ```shell
 >$ python -m venv .venv
@@ -58,7 +56,6 @@ Start server
 >$ python manage.py runserver
 ```
 
-&nbsp;
 ## Starting the frontend server
 Go to `frontend/stocksbot` and install modules from package.json
 ```shell
@@ -70,7 +67,6 @@ Start the fronend server
 >$ npm start
 ```
 
-&nbsp;
 ## Stop server
 Enter `Ctrl` + `c` to end server
 
