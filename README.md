@@ -3,13 +3,12 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 
 <img src="frontend/stocksbot/public/stocksbot.png" width="800" >
 
-&nbsp;
-# Tech stack
+## Tech stack
 - Frontend: Javascript React, Typescrypt, Mantine
 - Backend: Python Django, Pandas
 - REST API: Reddit, Finnhub
 
-# Feature
+## Feature
 1. List all the trending stocks with the number of times they are mentioned 
 2. Show sentiment scores of each stock
 3. Select each stock to show comments related to it (with over 20 upvotes and 70% upvote ratio)
@@ -17,10 +16,9 @@ Web-app that tracks the popularity and sentiment of the stocks the user is inter
 5. Get quotes for the stocks in the user list
 6. Add notes for the stocks in the user list
 
-&nbsp;
-# Instruction
+## Instruction
 
-## Starting the backend server
+### Starting the backend server
 In the `backend` folder, reate a virtual environment called `.venv`
 ```shell
 >$ python -m venv .venv
@@ -56,7 +54,7 @@ Start server
 >$ python manage.py runserver
 ```
 
-## Starting the frontend server
+### Starting the frontend server
 Go to `frontend/stocksbot` and install modules from package.json
 ```shell
 >$ npm install 
@@ -67,7 +65,7 @@ Start the fronend server
 >$ npm start
 ```
 
-## Stop server
+### Stop server
 Enter `Ctrl` + `c` to end server
 
 To deactivate the virtual environment, enter the following command
